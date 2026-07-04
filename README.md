@@ -1,45 +1,189 @@
-# Mitron Bank Credit Card Expansion Project
+# 💳 Customer Spending Analysis Dashboard | Power BI
 
-## Overview
-The **Mitron Bank Credit Card Expansion Project** was initiated to enhance Mitron Bank's credit card offerings by closely studying customer spending patterns in collaboration with AtliQ Services. By identifying key trends across demographics, location, and spending categories, this project aims to foster customer loyalty and improve Mitron Bank’s market presence through targeted offers and category-specific features.
+## 📌 Project Overview
 
-## Objectives
-- Analyze customer spending habits to identify trends.
-- Develop tailored offers to increase customer engagement and card usage.
-- Enhance Mitron Bank’s brand image and market standing by aligning credit card features with customer preferences.
+The **Customer Spending Analysis Dashboard** is an interactive Power BI project designed to analyze customer spending behavior, transaction patterns, and financial trends. The dashboard provides actionable insights that help businesses understand customer preferences, identify high-value customer segments, and support data-driven marketing and business decisions.
 
-## Key Findings
-1. **Spending Trends**:
-   - Top categories: Bills, Groceries, Electronics.
-   - Geographic focus: Mumbai has the highest spending volume.
+---
 
-2. **Income-based Analysis**:
-   - High spenders include:
-      - Salaried individuals in IT.
-      - Business owners.
-      - Other salaried professionals.
+## 🎯 Project Objectives
 
-3. **Age Group Preferences**:
-   - Age 25-34 and 21-24: Strong preference for Entertainment, Apparel, and Travel.
+- Analyze customer spending behavior
+- Monitor transaction trends over time
+- Identify high-value customers
+- Compare spending across different customer segments
+- Understand payment preferences
+- Support business decision-making using data visualization
 
-4. **City-wise Dynamics**:
-   - Mumbai leads spending, with unique patterns noted across Delhi NCR, Bengaluru, and Chennai.
+---
 
-5. **Gender & Marital Status Impact**:
-   - Higher card usage among males and married individuals.
+## 📊 Dashboard Features
 
-## Project Outcomes
-1. **Targeted Offers**:
-   - Offers crafted specifically for demographic profiles identified in analysis.
+### Executive Summary
+- Total Customers
+- Total Transactions
+- Total Revenue
+- Average Transaction Value
+- Average Monthly Spend
 
-2. **Category-Specific Features**:
-   - Introduced features for high-spending categories like Entertainment, Apparel, and Travel.
+### Customer Analysis
+- Spending by Age Group
+- Spending by Gender
+- Occupation-wise Spending
+- Customer Segment Analysis
 
-3. **Customer Engagement Initiatives**:
-   - Enhanced engagement strategies tailored for distinct demographic profiles.
+### Transaction Analysis
+- Monthly Spending Trend
+- Spending Category Analysis
+- Payment Method Distribution
+- Transaction Frequency
 
-4. **Strategic Business Impact**:
-   - Anticipated results include increased card usage, higher spending, and a strengthened brand image for Mitron Bank.
+### Geographic Analysis
+- Spending by City
+- Regional Customer Distribution
 
-## Project Learnings
-This project highlights the synergy between data analytics and business strategy, offering a pathway to a comprehensive approach in credit card offerings that considers customer age, location, and profession.
+---
+
+## 📈 Key KPIs
+
+- Total Customers
+- Total Transactions
+- Total Spending
+- Average Spend per Customer
+- Average Transaction Amount
+- Monthly Revenue
+- Customer Growth
+- Transaction Growth
+
+---
+
+## 📂 Dataset
+
+The dataset includes customer transaction information such as:
+
+- Customer ID
+- Gender
+- Age
+- City
+- Occupation
+- Income Category
+- Transaction Amount
+- Transaction Date
+- Spending Category
+- Payment Method
+
+---
+
+## 🛠 Tools & Technologies
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- CSV Dataset
+
+---
+
+## 📊 Power BI Features Used
+
+- KPI Cards
+- Bar Charts
+- Column Charts
+- Line Charts
+- Donut Charts
+- Matrix Table
+- Slicers
+- Tooltips
+- Conditional Formatting
+- Interactive Filters
+- Drill-through
+- Bookmarks
+
+---
+
+## 📁 Project Structure
+
+```
+Customer-Spending-Analysis-Dashboard/
+│
+├── Customer Spending Dashboard.pbix
+├── Dataset.csv
+├── Dashboard Screenshots/
+├── README.md
+```
+
+---
+
+## 💡 Business Insights
+
+- Identify customers with the highest spending.
+- Analyze spending trends across different demographics.
+- Discover the most popular payment methods.
+- Monitor monthly revenue growth.
+- Understand customer purchasing patterns.
+- Support targeted marketing campaigns.
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+- Customer Analytics
+
+---
+
+## 📷 Dashboard Preview
+
+Add dashboard screenshots inside the **Dashboard Screenshots** folder.
+
+Example:
+
+```
+Dashboard Screenshots/
+├── Overview.png
+├── Customer Analysis.png
+├── Spending Trends.png
+└── Transaction Analysis.png
+```
+
+---
+
+## ⭐ Future Improvements
+
+- Customer Lifetime Value (CLV) Analysis
+- Customer Segmentation using RFM Analysis
+- Spending Forecasting
+- Predictive Analytics
+- Real-time Data Refresh
+- Mobile Dashboard Optimization
+
+---
+
+## 👨‍💻 Author
+
+**Vijay Chinchkar**
+
+Aspiring Data Analyst
+
+### Skills
+
+- Power BI
+- SQL
+- Excel
+- Python
+- DAX
+- Power Query
+
+**GitHub:** https://github.com/Vijay7972
+
+**LinkedIn:** https://www.linkedin.com/in/vijay-chinchkar
+
+---
+
+## Thank You
