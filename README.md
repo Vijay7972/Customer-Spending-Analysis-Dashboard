@@ -165,12 +165,6 @@ Dashboard Screenshots/
 
 ---
 
-## 👨‍💻 Author
-
-**Vijay Chinchkar**
-
-Aspiring Data Analyst
-
 ### Skills
 
 - Power BI
